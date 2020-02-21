@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ADV/MAIN2019V.unity
-    guid: 1ffa77a7b7c2e9b4b8979f9525b129a1
+    path: Assets/Sunnyland/Scenes/piosul menu.unity
+    guid: 2aec7ec29dcdb994397bf939509e244c
+  - enabled: 1
+    path: Assets/Sunnyland/Scenes/ADV-piosul.unity
+    guid: 2e63032d6de7c4f4d8a54e01c570719b
   m_configObjects: {}
